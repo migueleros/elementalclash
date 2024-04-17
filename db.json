@@ -67,7 +67,7 @@
                 "name": "Divine Whip",
                 "tier": "normal",
                 "type": "damage",
-                "description": "A touch imbued with the sun's life-giving energy, a reminder of Helios' watchful gaze.",
+                "description": "Wrought from pure divine energy, the whip crackles with righteousness. With each strike, it cleaves through darkness, delivering sanctified justice with unwavering resolve.",
                 "accuracy": 100,
                 "icon": "/assets/holy/divine_whip.png",
                 "damage": 10
