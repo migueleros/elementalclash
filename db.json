@@ -1,0 +1,80 @@
+{
+    "characters": [
+        ""
+    ],
+    "skills": {
+        "beast": [
+            
+        ],
+        "earth": [
+
+        ],
+        "water": [
+
+        ],
+        "electric": [
+
+        ],
+        "fire": [
+
+        ],
+        "dark": [
+
+        ],
+        "holy": [
+            {
+                "name": "Unmatched Power of the Sun",
+                "tier": "ultimate",
+                "type": "damage",
+                "description": "You call upon the radiant fury of the divine sun, unleashing a wave of purifying energy that scorches the battlefield. This ultimate skill banishes all forms of darkness and inflicts grievous wounds upon the dark.",
+                "accuracy": 100,
+                "icon": "/assets/holy/unmatched_power_of_the_sun.png",
+                "damage": 25,
+                "effects": {
+                    "recoil": {
+                        "blindness": 1
+                    },
+                    "burn": {
+                        "chance": 80,
+                        "turns": 3
+                    }
+                }
+            },
+            {
+                "name": "Helios' Death",
+                "tier": "ultimate",
+                "type": "heal",
+                "description": "A forbidden art used only in direst need. Helios sacrifices a fragment of his brilliance to grant a fleeting moment of life renewed. Use it wisely, for the sun cannot burn forever.",
+                "accuracy": 100,
+                "icon": "/assets/holy/helios_death.png",
+                "heal": 25,
+                "effects": {
+                    "recoil": {
+                        "blindness": 1
+                    }
+                }
+            },
+            {
+                "name": "Helios' Touch",
+                "tier": "normal",
+                "type": "heal",
+                "description": "A touch imbued with the sun's life-giving energy, a reminder of Helios' watchful gaze.",
+                "accuracy": 100,
+                "icon": "/assets/holy/helios_touch.png",
+                "heal": 10
+            },
+            {
+                "name": "Divine Whip",
+                "tier": "normal",
+                "type": "damage",
+                "description": "A touch imbued with the sun's life-giving energy, a reminder of Helios' watchful gaze.",
+                "accuracy": 100,
+                "icon": "/assets/holy/divine_whip.png",
+                "damage": 10
+            }
+        ],
+        "physical": [
+
+        ]
+    }
+}
